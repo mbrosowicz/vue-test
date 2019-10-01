@@ -92,5 +92,6 @@ export default {
 <style lang="stylus" scoped>
 form {
     margin-bottom: 30px;
+    margin-top: 4px;
 }
 </style>

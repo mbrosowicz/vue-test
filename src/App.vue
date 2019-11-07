@@ -54,5 +54,15 @@
     margin: 0;
     font-size: 20px;
   }
+  .text {
+    font-size: 14px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: center;
+    margin-top: 4px;
+  }
 }
 </style>
